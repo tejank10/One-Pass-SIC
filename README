@@ -1,3 +1,5 @@
 This program uses C++11
 Compilation instructions:
 g++ -std=c++11 assembler.cpp -o assembler
+
+NOTE: '^' is inserted in object code only to simplify reading of the object code.
