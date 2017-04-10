@@ -1,0 +1,6 @@
+COPY     START 1000
+FIRST    LDA   THIRTEEN
+         STA   NUM
+THIRTEEN WORD  13
+NUM      RESW  1
+         END   FIRST
