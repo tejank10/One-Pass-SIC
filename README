@@ -3,3 +3,5 @@ Compilation instructions:
 g++ -std=c++11 assembler.cpp -o assembler
 
 NOTE: '^' is inserted in object code only to simplify reading of the object code.
+
+This is a Single Pass SIC assembler, in which the entire instruction set is decoded in one single pass. 
